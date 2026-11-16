@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.git/
+train_model.py
+*.md
